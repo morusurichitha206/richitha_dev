@@ -1,0 +1,211 @@
+[
+    {
+        "movie_id": 1,
+        "title": "Bahubali",
+        "genre": ["fantasy", "drama", "action"],
+        "rating": 8.8,
+        "year": 2011,
+        "director": "Raja Mouli",
+        "language": ["Hindi", "English", "Tamil", "Malyalam", "Telugu", "Kannada"],
+        "duration": "3.0 H",
+        "cast": {
+            "actors": ["Prabhas", "Rana Daggupati"],
+            "actress": ["Anushka", "Tammanah"]
+        },
+        "platforms": ["Netflix", "Prime Video"],
+        "awards": ["Film Fare Awards"]
+    },
+    {
+        "movie_id": 2,
+        "title": "RRR",
+        "genre": ["action", "drama", "historical"],
+        "rating": 9.0,
+        "year": 2022,
+        "director": "S. S. Rajamouli",
+        "language": ["Telugu", "Hindi"],
+        "duration": "3.2 H",
+        "cast": {
+            "actors": ["N. T. Rama Rao Jr.", "Ram Charan"],
+            "actress": ["Alia Bhatt", "Olivia Morris"]
+        },
+        "platforms": ["Netflix"],
+        "awards": ["Oscar", "National Film Awards"]
+    },
+    {
+        "movie_id": 3,
+        "title": "Dangal",
+        "genre": ["biography", "sports", "drama"],
+        "rating": 8.5,
+        "year": 2016,
+        "director": "Nitesh Tiwari",
+        "language": ["Hindi"],
+        "duration": "2.4 H",
+        "cast": {
+            "actors": ["Aamir Khan"],
+            "actress": ["Fatima Sana Shaikh", "Sanya Malhotra"]
+        },
+        "platforms": ["Netflix", "Disney+ Hotstar"],
+        "awards": ["National Film Awards"]
+    },
+    {
+        "movie_id": 4,
+        "title": "Interstellar",
+        "genre": ["sci-fi", "adventure", "drama"],
+        "rating": 8.6,
+        "year": 2014,
+        "director": "Christopher Nolan",
+        "language": ["English"],
+        "duration": "2.9 H",
+        "cast": {
+            "actors": ["Matthew McConaughey"],
+            "actress": ["Anne Hathaway", "Jessica Chastain"]
+        },
+        "platforms": ["Amazon Prime", "Netflix"],
+        "awards": ["Academy Award"]
+    },
+    {
+        "movie_id": 5,
+        "title": "Pushpa: The Rise",
+        "genre": ["action", "drama", "crime"],
+        "rating": 7.6,
+        "year": 2021,
+        "director": "Sukumar",
+        "language": ["Telugu", "Hindi"],
+        "duration": "2.5 H",
+        "cast": {
+            "actors": ["Allu Arjun"],
+            "actress": ["Rashmika Mandanna"]
+        },
+        "platforms": ["Amazon Prime"],
+        "awards": ["Film Fare Awards", "SIIMA"]
+    },
+    {
+        "movie_id": 6,
+        "title": "3 Idiots",
+        "genre": ["comedy", "drama"],
+        "rating": 8.4,
+        "year": 2009,
+        "director": "Rajkumar Hirani",
+        "language": ["Hindi"],
+        "duration": "2.6 H",
+        "cast": {
+            "actors": ["Aamir Khan", "Sharman Joshi", "R. Madhavan"],
+            "actress": ["Kareena Kapoor"]
+        },
+        "platforms": ["Netflix", "Amazon Prime"],
+        "awards": ["IIFA", "Film Fare"]
+    },
+    {
+        "movie_id": 7,
+        "title": "Vikram",
+        "genre": ["action", "thriller"],
+        "rating": 8.2,
+        "year": 2022,
+        "director": "Lokesh Kanagaraj",
+        "language": ["Tamil", "Telugu", "Hindi"],
+        "duration": "2.4 H",
+        "cast": {
+            "actors": ["Kamal Haasan", "Vijay Sethupathi", "Fahadh Faasil"],
+            "actress": []
+        },
+        "platforms": ["Disney+ Hotstar"],
+        "awards": ["National Awards"]
+    },
+    {
+        "movie_id": 8,
+        "title": "The Dark Knight",
+        "genre": ["action", "crime", "drama"],
+        "rating": 9.0,
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "language": ["English"],
+        "duration": "2.3 H",
+        "cast": {
+            "actors": ["Christian Bale", "Heath Ledger"],
+            "actress": ["Maggie Gyllenhaal"]
+        },
+        "platforms": ["HBO Max", "Amazon Prime"],
+        "awards": ["Oscar", "BAFTA"]
+    },
+    {
+        "movie_id": 9,
+        "title": "Drishyam",
+        "genre": ["thriller", "drama"],
+        "rating": 8.2,
+        "year": 2013,
+        "director": "Jeethu Joseph",
+        "language": ["Malayalam"],
+        "duration": "2.5 H",
+        "cast": {
+            "actors": ["Mohanlal"],
+            "actress": ["Meena"]
+        },
+        "platforms": ["Amazon Prime"],
+        "awards": ["Kerala State Film Awards"]
+    },
+    {
+        "movie_id": 10,
+        "title": "KGF: Chapter 2",
+        "genre": ["action", "drama"],
+        "rating": 8.4,
+        "year": 2022,
+        "director": "Prashanth Neel",
+        "language": ["Kannada", "Hindi", "Telugu", "Tamil", "Malayalam"],
+        "duration": "2.8 H",
+        "cast": {
+            "actors": ["Yash"],
+            "actress": ["Srinidhi Shetty"]
+        },
+        "platforms": ["Amazon Prime"],
+        "awards": ["SIIMA", "Filmfare"]
+    },
+    {
+        "movie_id": 11,
+        "title": "Jai Bhim",
+        "genre": ["drama", "crime"],
+        "rating": 8.9,
+        "year": 2021,
+        "director": "T. J. Gnanavel",
+        "language": ["Tamil"],
+        "duration": "2.4 H",
+        "cast": {
+            "actors": ["Suriya"],
+            "actress": ["Lijomol Jose"]
+        },
+        "platforms": ["Amazon Prime"],
+        "awards": ["National Film Awards"]
+    },
+    {
+        "movie_id": 12,
+        "title": "Inception",
+        "genre": ["sci-fi", "thriller"],
+        "rating": 8.8,
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "language": ["English"],
+        "duration": "2.5 H",
+        "cast": {
+            "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt"],
+            "actress": ["Elliot Page"]
+        },
+        "platforms": ["Netflix", "Amazon Prime"],
+        "awards": ["Oscar", "BAFTA"]
+    },
+    {
+        "movie_id": 13,
+        "title": "Eega",
+        "genre": ["fantasy", "thriller"],
+        "rating": 7.7,
+        "year": 2012,
+        "director": "S. S. Rajamouli",
+        "language": ["Telugu", "Tamil"],
+        "duration": "2.1 H",
+        "cast": {
+            "actors": ["Nani", "Sudeep"],
+            "actress": ["Samantha"]
+        },
+        "platforms": ["Disney+ Hotstar"],
+        "awards": ["National Awards"]
+    }
+    
+]
